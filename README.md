@@ -1,2 +1,23 @@
 # Help-with-English
 English lessons, exam prep, and more...
+/Users/ottoesterle/Desktop/English Site/about.html
+/Users/ottoesterle/Desktop/English Site/ap.html
+/Users/ottoesterle/Desktop/English Site/cae-listening.html
+/Users/ottoesterle/Desktop/English Site/cae-reading-and-use-of-english.html
+/Users/ottoesterle/Desktop/English Site/cae-speaking.html
+/Users/ottoesterle/Desktop/English Site/cae-writing.html
+/Users/ottoesterle/Desktop/English Site/cae.html
+/Users/ottoesterle/Desktop/English Site/community.html
+/Users/ottoesterle/Desktop/English Site/exam-prep.html
+/Users/ottoesterle/Desktop/English Site/fce-listening.html
+/Users/ottoesterle/Desktop/English Site/fce-reading-and-use-of-english.html
+/Users/ottoesterle/Desktop/English Site/fce-speaking.html
+/Users/ottoesterle/Desktop/English Site/fce-writing.html
+/Users/ottoesterle/Desktop/English Site/fce.html
+/Users/ottoesterle/Desktop/English Site/general-english.html
+/Users/ottoesterle/Desktop/English Site/ib.html
+/Users/ottoesterle/Desktop/English Site/index.html
+/Users/ottoesterle/Desktop/English Site/maturita.html
+/Users/ottoesterle/Desktop/English Site/resources.html
+/Users/ottoesterle/Desktop/English Site/signup.html
+/Users/ottoesterle/Desktop/English Site/style.css
